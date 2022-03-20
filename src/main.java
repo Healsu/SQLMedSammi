@@ -45,7 +45,7 @@ public class main {
             String url = "jdbc:mysql://localhost:3306/test_db";
 
             //Get a connection to the database for a user named root with password admin
-            con = DriverManager.getConnection(url,"root","Tim10ses");
+            con = DriverManager.getConnection(url,"root","among us");
 
             //Display the URL and connection information
             System.out.println("URL: " + url);
